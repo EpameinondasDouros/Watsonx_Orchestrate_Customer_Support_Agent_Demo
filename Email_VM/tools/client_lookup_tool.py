@@ -26,7 +26,7 @@ _CLIENTS = [
     {"FirstName": "Olga",      "LastName": "Michailidou",    "Email": "olga.michailidou@example.com",          "ContractType": "Metal",   "PaymentType": "card"},
     {"FirstName": "Vasilis",   "LastName": "Karalis",        "Email": "vasilis.karalis@example.com",           "ContractType": "Diamond", "PaymentType": "cash"},
     {"FirstName": "Helen",     "LastName": "Pallis",         "Email": "helen.pallis@example.com",               "ContractType": "Gold",    "PaymentType": "card"},
-    {"FirstName": "Andreas",   "LastName": "Mouzakis",       "Email": "andreas.mouzakis@example.com",           "ContractType": "Silver",  "PaymentType": "cash"},
+    {"FirstName": "Andreas",   "LastName": "Mouzakis",       "Email": "epadouros@gmail.com",           "ContractType": "Silver",  "PaymentType": "cash"},
     {"FirstName": "Kiki",      "LastName": "Vogiatzis",      "Email": "kiki.vogiatzis@example.com",             "ContractType": "Metal",   "PaymentType": "card"},
     {"FirstName": "Petros",    "LastName": "Sarris",         "Email": "petros.sarris@example.com",              "ContractType": "Diamond", "PaymentType": "cash"},
     {"FirstName": "Sophia",    "LastName": "Hadjichristos",  "Email": "sophia.hadjichristos@example.com",       "ContractType": "Gold",    "PaymentType": "card"},
