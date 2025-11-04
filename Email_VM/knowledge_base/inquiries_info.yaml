@@ -1,0 +1,9 @@
+spec_version: v1
+kind: knowledge_base 
+name: inquiries_info
+description: |
+   Data about the communication points that the clients can use
+documents:
+   - "Customer_Inquiry_Contacts.pdf"
+vector_index:
+   embeddings_model_name: sentence-transformers/all-minilm-l6-v2

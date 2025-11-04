@@ -1,0 +1,9 @@
+spec_version: v1
+kind: knowledge_base 
+name: answer_manual
+description: |
+   A manual to give the guidelines in order to answer better to the given customer
+documents:
+   - "Customer_Response_Guidelines.pdf"
+vector_index:
+   embeddings_model_name: sentence-transformers/all-minilm-l6-v2
